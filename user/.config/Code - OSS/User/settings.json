@@ -1,0 +1,34 @@
+{
+    "window.titleBarStyle": "custom",
+    "workbench.activityBar.visible": false,
+    "workbench.colorTheme": "Sublime Material Theme - Dark",
+    "vscode-neovim.neovimPath": "/usr/bin/nvim",
+    "workbench.colorCustomizations": {
+        "editorLineNumber.activeForeground": "#fff",
+        "[Sublime Material Theme - Dark]": {
+//            "titleBar.activeBackground": "#1E1E1E",
+            "titleBar.activeBackground": "#0f0f0f",
+            "titleBar.activeForeground": "#dfdddd",
+            "titleBar.inactiveBackground": "#0F0F0F",
+            "titleBar.inactiveForeground": "#9d9d9d",
+            //"editor.background": "#1A1B1C"
+            "editor.background": "#1E1E1E",
+            "statusBar.border": "#0f0f0f",
+            "editorLineNumber.activeForeground": "#fff",
+            // "statusBar.background": "#7667a0",
+            // "statusBar.background": "#414141",
+            // "statusBar.background": "#3c588b",
+            // "statusBar.background": "#09456d",
+            // "statusBar.background": "#335677",
+            // "statusBar.background": "#4864ac",
+            "statusBar.background": "#272e41",
+            "statusBar.foreground": "#dedede",
+            // "statusBar.background": "#323d5a",
+            // "statusBar.background": "#222",
+            "tab.activeModifiedBorder": "#b7a5e2",
+            // "tab.inactiveModifiedBorder": "#6b58a0"
+            "tab.inactiveModifiedBorder": "#a594cc",
+        }
+    },
+    "window.zoomLevel": 2,
+}
