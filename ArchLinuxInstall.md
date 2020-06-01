@@ -7,9 +7,10 @@
     1. mkfs ....
 1. mount ....
 1. optional: mirrorlist
-1. pacstrap /mnt base base-devel linux linux-firmware vim networkmanager grub zsh
+1. pacstrap /mnt base base-devel linux linux-firmware 
+    vim networkmanager grub zsh man-db man-pages
     xorg-xinit xorg-server xfce4 xfce4-pulseaudio-plugin pulseaudio pavucontrol
-    firefox code git
+    firefox git code
     * Optioneel: pulseaudio-alsa pulseaudio-jack pulseaudio-bluetooth neovim 
 ## configuratie
 1. genfstab -U /mnt >> /mnt/etc/fstab
